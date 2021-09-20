@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://i.ibb.co/L8nQVTq/siora-photography-hg-FY1m-ZY-Y0-unsplash.jpg);
+  background-repeat: no-repeat;
+}
+
+form {
+  width: 320px;
+  background-color: #99856e;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+  margin-top: 100px;
+  padding-bottom: 15px;
+}
+
+.form-group {
+  padding: 5px 20px;
+}
+
+.form-group:first-child {
+  padding-top: 30px;
+}
+
+button {
+  background-color: #b45a5d !important;
+  border-color: #b45a5d !important;
+  margin-bottom: 15px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.message {
+  color: #db3237;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  min-height: 24px;
+}
+
+.login {
+  padding-bottom: 0px;
+}

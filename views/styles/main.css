@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Underdog&display=swap");
+.navbar {
+  background-color: #99856e !important;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  background-color: #b45a5d !important;
+  border-color: #b45a5d !important;
+}
+
+.navbar-brand {
+  font-family: "Underdog", cursive !important;
+  font-size: 30px;
+  display: flex;
+}
+
+.navbar img {
+  cursor: pointer;
+}
+      
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
